@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "F": {
+      "item": "improved_botania_rings:alfheim_ring"
+    },
+    "G": {
+      "item": "botania:gaia_ingot"
+    },
+    "P": {
+      "item": "botania:rune_envy"
+    },
+    "S": {
+      "item": "botania:terrasteel_block"
+    }
+  },
+  "pattern": [
+    "   ",
+    "PFP",
+    "GSG"
+  ],
+  "result": {
+    "item": "improved_botania_rings:asgard_ring"
+  },
+  "show_notification": true
+}

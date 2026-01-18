@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "F": {
+      "item": "improved_botania_rings:muspelheim_ring"
+    },
+    "G": {
+      "item": "botania:gaia_ingot"
+    },
+    "P": {
+      "item": "botania:rune_gluttony"
+    },
+    "S": {
+      "item": "botania:elementium_block"
+    }
+  },
+  "pattern": [
+    "   ",
+    "PFP",
+    "SGS"
+  ],
+  "result": {
+    "item": "improved_botania_rings:alfheim_ring"
+  },
+  "show_notification": true
+}
